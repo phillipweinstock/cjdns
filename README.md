@@ -89,7 +89,7 @@ Advanced configuration:
 
 ### License
 
-[Available here](LICENSE)
+[Available here](GNU GENERAL PUBLIC LICENSE)
 
 Thank you for your time and interest,
 
